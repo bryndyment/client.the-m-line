@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body, form, h1, h2, h3, h4, h5, li, p, table, ul, ol { margin: 0; }
+body { color: #353735; background: #FFF; font: 12px Arial, Helvetica, sans-serif; }
+img { border: 0; }
+#wrapper { margin: auto; position: relative; width: 797px; }
+
+#right-col { float: right; width: 535px; }
+#right-col h1 { font-size: 20px; color: #830C2C; font-weight: normal; padding-bottom: 15px; margin-bottom: 15px; border-bottom: 1px solid #948A85; }
+#right-col h2 { font-size: 14px; color: #830C2C; font-weight: normal; margin-bottom: 15px; }
+#right-col h3 { color: #353735; font: bold 12px Arial, Helvetica, sans-serif; line-height: 22px; }
+#right-col h4 { font-size: 20px; color: #666666; font-weight: normal; line-height: 32px; padding-bottom: 15px; margin-bottom: 15px; margin-top: 15px;}
+#right-col p { color: #353735; font-size: 12px; line-height: 22px; margin-bottom: 10px; }
+#right-col a:link { color: #353735; text-decoration: underline; }
+#right-col a:visited { color: #353735; text-decoration: underline; }
+#right-col a:hover, a:active, a:focus { color: #948A85; text-decoration: none; }
+#right-col span { margin: 0 7px; }
+#right-col table { margin-bottom: 40px; }
+
+#left-col { font-size: 10px; line-height: 25px; width: 213px; padding: 20px 0 0 15px; background: #948b86; }
+#left-col a:link, a:visited { color: #FFFFFF; text-decoration: none; }
+#left-col a:hover, a:active, a:focus { color: #353735; }
+#left-col-low { width: 228px; background: #948b86; }
+
+.asset_spc_std { padding: 20px 0px 40px; }
+.asset_spc_sm { padding: 20px 0px 10px; }
+.fc-948A85 { color: #353735; }
